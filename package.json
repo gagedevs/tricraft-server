@@ -1,0 +1,13 @@
+{
+  "name": "Tricraft SMP",
+  "version": "1",
+  "description": "§6TriCraft §6SMP §c<3",
+  "main": "server.js",
+  "scripts": {
+    "start": "chmod +x main.sh && ./main.sh"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "14.x"
+  }
+}

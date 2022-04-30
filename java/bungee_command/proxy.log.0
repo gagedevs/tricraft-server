@@ -1,0 +1,135 @@
+00:05:18 [INFO] Enabled BungeeCord version unknown
+00:05:20 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:05:21 [INFO] Listening websockets on /0.0.0.0:3000
+00:05:22 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:05:22 [INFO] Listening on /127.11.0.1:38629
+00:05:22 [INFO] Reload complete
+00:11:27 [INFO] [ayunami2000] <-> InitialHandler has connected
+00:11:27 [INFO] Player 'ayunami2000' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+00:11:27 [INFO] [ayunami2000] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+00:11:27 [INFO] [ayunami2000] -> UpstreamBridge has disconnected
+00:13:32 [INFO] Enabled BungeeCord version unknown
+00:13:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:13:35 [INFO] Listening websockets on /0.0.0.0:3000
+00:13:37 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:13:37 [INFO] Reload complete
+00:13:38 [INFO] Listening on /127.11.0.1:35019
+00:13:40 [INFO] [ayunami2000] <-> InitialHandler has connected
+00:13:40 [INFO] Player 'ayunami2000' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+00:13:40 [INFO] [ayunami2000] disconnected with: §cCould not connect to default server, please try again later: java.net.ConnectException
+00:13:40 [INFO] [ayunami2000] -> UpstreamBridge has disconnected
+00:13:43 [INFO] [ayunami2000] <-> InitialHandler has connected
+00:13:43 [INFO] Player 'ayunami2000' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+00:13:43 [INFO] [ayunami2000] <-> ServerConnector [lobby] has connected
+00:13:43 [INFO] [ayunami2000] <-> ServerConnector [lobby] has disconnected
+00:14:13 [WARNING] [ayunami2000] -> UpstreamBridge - read timed out
+00:14:13 [INFO] [ayunami2000] disconnected with: ReadTimeoutException : null
+00:14:13 [INFO] [ayunami2000] -> UpstreamBridge has disconnected
+00:14:16 [INFO] [ayunami2000] <-> InitialHandler has connected
+00:14:16 [INFO] Player 'ayunami2000' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+00:14:16 [INFO] [ayunami2000] <-> ServerConnector [lobby] has connected
+00:16:27 [INFO] [RBMobil] <-> InitialHandler has connected
+00:16:27 [INFO] Player 'RBMobil' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+00:16:27 [INFO] [RBMobil] <-> ServerConnector [lobby] has connected
+00:17:22 [INFO] [ayunami2000] -> UpstreamBridge has disconnected
+00:17:22 [INFO] [ayunami2000] <-> DownstreamBridge <-> [lobby] has disconnected
+00:17:47 [INFO] [RBMobil] -> UpstreamBridge has disconnected
+00:17:48 [INFO] [RBMobil] <-> DownstreamBridge <-> [lobby] has disconnected
+21:19:54 [INFO] Enabled BungeeCord version unknown
+21:19:55 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+21:19:55 [INFO] Listening websockets on /0.0.0.0:3000
+21:19:56 [INFO] Server bans.txt changed, it will be reloaded automatically
+21:19:56 [INFO] Listening on /127.11.0.1:33773
+21:19:56 [INFO] Reload complete
+05:11:48 [INFO] Enabled BungeeCord version unknown
+05:11:49 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+05:11:49 [INFO] Listening websockets on /0.0.0.0:3000
+05:11:51 [INFO] Server bans.txt changed, it will be reloaded automatically
+05:11:51 [INFO] Listening on /127.11.0.1:44410
+05:11:52 [INFO] Reload complete
+12:20:43 [INFO] Enabled BungeeCord version unknown
+12:20:44 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+12:20:44 [INFO] Listening websockets on /0.0.0.0:3000
+12:20:46 [INFO] Server bans.txt changed, it will be reloaded automatically
+12:20:46 [INFO] Reload complete
+12:20:46 [INFO] Listening on /127.11.0.1:35990
+15:45:36 [INFO] Enabled BungeeCord version unknown
+15:45:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:45:38 [INFO] Listening websockets on /0.0.0.0:3000
+15:45:40 [INFO] Listening on /127.11.0.1:38805
+15:45:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:45:40 [INFO] Reload complete
+00:52:58 [INFO] Enabled BungeeCord version unknown
+00:52:59 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+00:52:59 [INFO] Listening websockets on /0.0.0.0:3000
+00:53:00 [INFO] Server bans.txt changed, it will be reloaded automatically
+00:53:01 [INFO] Listening on /127.11.0.1:42720
+00:53:01 [INFO] Reload complete
+18:13:04 [INFO] Enabled BungeeCord version unknown
+18:13:07 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+18:13:07 [INFO] Listening websockets on /0.0.0.0:3000
+18:13:08 [INFO] Server bans.txt changed, it will be reloaded automatically
+18:13:08 [INFO] Listening on /127.11.0.1:36384
+18:13:08 [INFO] Reload complete
+16:10:13 [INFO] Enabled BungeeCord version unknown
+16:10:16 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:10:16 [INFO] Listening websockets on /0.0.0.0:3000
+16:10:18 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:10:19 [INFO] Listening on /127.11.0.1:41685
+16:10:20 [INFO] Reload complete
+15:34:46 [INFO] Enabled BungeeCord version unknown
+15:34:48 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:34:48 [INFO] Listening websockets on /0.0.0.0:3000
+15:34:50 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:34:50 [INFO] Reload complete
+15:34:50 [INFO] Listening on /127.11.0.1:42404
+05:41:33 [INFO] Enabled BungeeCord version unknown
+05:41:35 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+05:41:35 [INFO] Listening websockets on /0.0.0.0:3000
+05:41:36 [INFO] Server bans.txt changed, it will be reloaded automatically
+05:41:36 [INFO] Reload complete
+05:41:37 [INFO] Listening on /127.11.0.1:40770
+15:37:25 [INFO] Enabled BungeeCord version unknown
+15:37:27 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:37:27 [INFO] Listening websockets on /0.0.0.0:3000
+15:37:28 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:37:28 [INFO] Reload complete
+15:37:29 [INFO] Listening on /127.11.0.1:37235
+16:07:26 [INFO] Enabled BungeeCord version unknown
+16:07:27 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+16:07:27 [INFO] Listening websockets on /0.0.0.0:3000
+16:07:28 [INFO] Server bans.txt changed, it will be reloaded automatically
+16:07:29 [INFO] Listening on /127.11.0.1:46813
+16:07:29 [INFO] Reload complete
+01:53:00 [INFO] Enabled BungeeCord version unknown
+01:53:02 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+01:53:02 [INFO] Listening websockets on /0.0.0.0:3000
+01:53:03 [INFO] Server bans.txt changed, it will be reloaded automatically
+01:53:03 [INFO] Reload complete
+01:53:04 [INFO] Listening on /127.11.0.1:40526
+02:00:36 [INFO] Enabled BungeeCord version unknown
+02:00:38 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+02:00:38 [INFO] Listening websockets on /0.0.0.0:3000
+02:00:40 [INFO] Server bans.txt changed, it will be reloaded automatically
+02:00:40 [INFO] Listening on /127.11.0.1:46467
+02:00:41 [INFO] Reload complete
+14:57:15 [INFO] Enabled BungeeCord version unknown
+14:57:17 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+14:57:18 [INFO] Listening websockets on /0.0.0.0:3000
+14:57:20 [INFO] Server bans.txt changed, it will be reloaded automatically
+14:57:20 [INFO] Listening on /127.11.0.1:44067
+14:57:20 [INFO] Reload complete
+15:26:14 [INFO] Enabled BungeeCord version unknown
+15:26:17 [INFO] Enabled plugin EaglerSkins version 1.0.0 by LAX1DUDE
+15:26:17 [INFO] Listening websockets on /0.0.0.0:3000
+15:26:19 [INFO] Server bans.txt changed, it will be reloaded automatically
+15:26:19 [INFO] Reload complete
+15:26:19 [INFO] Listening on /127.11.0.1:42791
+15:43:09 [INFO] [Donald_J_Trump] <-> InitialHandler has connected
+15:43:09 [INFO] Player 'Donald_J_Trump' [/127.0.0.1] has remote websocket IP: 127.0.0.1
+15:43:10 [INFO] [Donald_J_Trump] <-> ServerConnector [lobby] has connected
+15:44:56 [WARNING] [Donald_J_Trump] -> UpstreamBridge - read timed out
+15:44:56 [INFO] [Donald_J_Trump] disconnected with: ReadTimeoutException : null
+15:44:56 [INFO] [Donald_J_Trump] -> UpstreamBridge has disconnected
+15:44:56 [WARNING] [Donald_J_Trump] <-> DownstreamBridge <-> [lobby] - IOException: Connection reset by peer
+15:44:56 [INFO] [Donald_J_Trump] <-> DownstreamBridge <-> [lobby] has disconnected
